@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: hi
+AI: Hello! How can I assist you today?
+
+You: how are 
+AI: I'm just a computer program, so I don't have feelings, but I'm here and ready to help you! How about you? How are you doing?
+
+End of Conversation
